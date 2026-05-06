@@ -69,7 +69,7 @@ Customer churn is one of the most critical challenges for subscription-based bus
 - Removed duplicate records
 - Converted incorrect data types
 - Standardized column names for consistency
-- 
+  
 ### 3. Exploratory Data Analysis (EDA)
 #### Performed:
 - Churn distribution analysis
@@ -77,7 +77,7 @@ Customer churn is one of the most critical challenges for subscription-based bus
 - Gender-based churn analysis
 - Statistical summaries
 - Distribution analysis using histograms and box plots
-- 
+  
 ### 4. Customer Segmentation
 Segmented customers into lifecycle stages:
 - 0–12 Months
@@ -97,42 +97,42 @@ Segmented customers into lifecycle stages:
 - Customer lifecycle churn trends
 
 ## Key Insights
-#### 1.Customer Lifecycle Insights
+#### 1. Customer Lifecycle Insights
 Customers within the first 0–12 months showed the highest churn rates
 Customers with tenure above 37 months had significantly lower churn probability
 Churn decreases as customer tenure increases
 
-#### 2.Revenue & Pricing Insights
+#### 2. Revenue & Pricing Insights
 Churned customers had higher average monthly charges compared to retained customers
 Customers paying higher monthly fees were more likely to discontinue services
 
-#### 3.Demographic Insights
+#### 3. Demographic Insights
 Senior citizens exhibited higher churn behavior
 Gender showed minimal impact on churn trends
 
-#### 4.Contract & Payment Insights
+#### 4. Contract & Payment Insights
 Month-to-month contracts experienced the highest churn
 Customers using electronic check payment methods had significantly higher churn rates
 Long-term contracts improved customer retention
 
 ## Business Recommendations
-#### 1.Improve Early Customer Retention
+#### 1. Improve Early Customer Retention
 
 Focus onboarding and engagement strategies on customers within the first 12 months.
 
-#### 2.Promote Long-Term Contracts
+#### 2. Promote Long-Term Contracts
 
 Encourage customers to shift from month-to-month plans to yearly subscriptions through discounts and loyalty benefits.
 
-#### 3.Optimize Pricing Strategies
+#### 3. Optimize Pricing Strategies
 
 Review pricing plans for high-charge customer groups to reduce dissatisfaction.
 
-#### 4.Improve Payment Experience
+#### 4. Improve Payment Experience
 
 Encourage automated payment methods to improve customer convenience and retention.
 
-#### 5.Create Senior Citizen Retention Plans
+#### 5. Create Senior Citizen Retention Plans
 
 Introduce customized support and affordable plans for senior citizens.
 
