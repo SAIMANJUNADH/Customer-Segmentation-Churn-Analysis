@@ -11,95 +11,92 @@ The analysis was performed on a real-world telecom customer dataset containing 7
 
 Customer churn is one of the most critical challenges for subscription-based businesses. High churn directly impacts:
 
-Revenue growth
-Customer lifetime value
-Profitability
-Customer acquisition costs
+- Revenue growth
+- Customer lifetime value
+- Profitability
+- Customer acquisition costs
 
-This project aims to answer:
+#### This project aims to answer:
 
-Which customers are most likely to churn?
-What factors drive churn behavior?
-How do contract types, tenure, demographics, and payment methods influence customer retention?
-What business strategies can reduce churn?
+- Which customers are most likely to churn?
+- What factors drive churn behavior?
+- How do contract types, tenure, demographics, and payment methods influence customer retention?
+- What business strategies can reduce churn?
 
 ## Project Objectives
-Perform end-to-end data cleaning and preprocessing
-Conduct exploratory data analysis (EDA)
-Analyze churn behavior across demographics and customer lifecycle stages
-Segment customers based on tenure categories
-Visualize customer trends using advanced plots and dashboards
-Generate actionable business recommendations for retention strategies
-Dataset Information
+- Perform end-to-end data cleaning and preprocessing
+- Conduct exploratory data analysis (EDA)
+- Analyze churn behavior across demographics and customer lifecycle stages
+- Segment customers based on tenure categories
+- Visualize customer trends using advanced plots and dashboards
+- Generate actionable business recommendations for retention strategies
+- Dataset Information
 
 ## The dataset contains:
 
-7,043 customer records
-21 business-related features
+- 7,043 customer records
+- 21 business-related features
+  
 #### Key Features
-Customer demographics
-Contract type
-Payment method
-Internet services
-Monthly charges
-Total charges
-Tenure
-Churn status
-Technologies Used
-Programming & Analysis
-Python
-Pandas
-NumPy
-Visualization
-Matplotlib
-Seaborn
-Plotly
-Environment
-Jupyter Notebook
+- Customer demographics
+- Contract type
+- Payment method
+- Internet services
+- Monthly charges
+- Total charges
+- Tenure
+- Churn status
+- Technologies Used
+- Programming & Analysis
+- Python
+- Pandas
+- NumPy
+- Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+- Environment
+- Jupyter Notebook
 
 ## Project Workflow
 ### 1. Data Understanding
-Loaded and explored telecom churn dataset
-Analyzed data types and feature distributions
-Identified numerical and categorical variables
+- Loaded and explored telecom churn dataset
+- Analyzed data types and feature distributions
+-Identified numerical and categorical variables
+
 ### 2. Data Cleaning
-Handled missing values using median and mode imputation
-Removed duplicate records
-Converted incorrect data types
-Standardized column names for consistency
+- Handled missing values using median and mode imputation
+- Removed duplicate records
+- Converted incorrect data types
+- Standardized column names for consistency
+- 
 ### 3. Exploratory Data Analysis (EDA)
-
 #### Performed:
-
-Churn distribution analysis
-Revenue and charge analysis
-Gender-based churn analysis
-Statistical summaries
-Distribution analysis using histograms and box plots
+- Churn distribution analysis
+- Revenue and charge analysis
+- Gender-based churn analysis
+- Statistical summaries
+- Distribution analysis using histograms and box plots
+- 
 ### 4. Customer Segmentation
-
 Segmented customers into lifecycle stages:
-
-0–12 Months
-13–36 Months
-37+ Months
+- 0–12 Months
+- 13–36 Months
+- 37+ Months
 
 #### Analyzed:
-
-Churn trends across tenure groups
-Monthly charges by customer category
-Contract-wise customer behavior
+- Churn trends across tenure groups
+- Monthly charges by customer category
+- Contract-wise customer behavior
 
 ### 5. Advanced Business Analysis
-
 #### Performed deeper analysis on:
+- Senior citizen churn behavior
+- Payment method impact
+- Contract-type influence
+- Customer lifecycle churn trends
 
-Senior citizen churn behavior
-Payment method impact
-Contract-type influence
-Customer lifecycle churn trends
-
-### Key Insights
+## Key Insights
 #### 1.Customer Lifecycle Insights
 Customers within the first 0–12 months showed the highest churn rates
 Customers with tenure above 37 months had significantly lower churn probability
@@ -140,15 +137,15 @@ Encourage automated payment methods to improve customer convenience and retentio
 Introduce customized support and affordable plans for senior citizens.
 
 ## Visualizations Included
-Churn distribution analysis
-Customer tenure segmentation
-Monthly charge distribution
-Contract-wise churn analysis
-Payment method comparison
-Demographic churn analysis
-Lifecycle churn trend analysis
-Interactive Plotly dashboards
-Results
+- Churn distribution analysis
+- Customer tenure segmentation
+- Monthly charge distribution
+- Contract-wise churn analysis
+- Payment method comparison
+- Demographic churn analysis
+- Lifecycle churn trend analysis
+- Interactive Plotly dashboards
+- Results
 
 The project successfully identified key churn-driving factors and demonstrated how customer behavior, contract structure, pricing, and payment methods influence retention.
 
@@ -156,21 +153,22 @@ The analysis provides actionable business intelligence that can help telecom com
 
 
 ## Skills Demonstrated
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Customer Segmentation
-Statistical Analysis
-Data Visualization
-Business Intelligence
-Analytical Problem Solving
-Insight Generation
-Storytelling with Data
-Future Improvements
-Build predictive churn classification models using Machine Learning
-Deploy interactive dashboards using Power BI or Streamlit
-Perform cohort analysis and customer lifetime value analysis
-Integrate real-time churn monitoring pipelines
-Author
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- Statistical Analysis
+- Data Visualization
+- Business Intelligence
+- Analytical Problem Solving
+- Insight Generation
+- Storytelling with Data
+- Future Improvements
+- Build predictive churn classification models using Machine Learning
+- Deploy interactive dashboards using Power BI or Streamlit
+- Perform cohort analysis and customer lifetime value analysis
+- Integrate real-time churn monitoring pipelines
+
+## Author
 
 Manjunadh Keerthi
 
